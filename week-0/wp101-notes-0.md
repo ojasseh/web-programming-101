@@ -14,7 +14,7 @@ This section will cover the general concepts of programming, what is web program
 
 ## Programming
 
-Sometimes referrers to as **coding**, is the art of writing computer code using a text editor (in our case), an Integrated Development Environment (IDE) or other less or advanced tools.
+Sometimes refers to as **coding**, is the art of writing computer code using a text editor (in our case), an Integrated Development Environment (IDE) or other less or advanced tools.
 
 
 
